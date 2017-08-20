@@ -8,4 +8,6 @@ Collect digital currency exchange api
 
 [bitstar.com](https://github.com/bitstarcom/BitStar-API/wiki)
 
+[okcoin.cn](https://www.okcoin.cn/rest_api.html)
+
 **Add later**
