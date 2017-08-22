@@ -10,4 +10,6 @@ Collect digital currency exchange api
 
 [okcoin.cn](https://www.okcoin.cn/rest_api.html)
 
+[51szzc.com](https://github.com/51szzc/szzc-api-demo)
+
 **Add later**
