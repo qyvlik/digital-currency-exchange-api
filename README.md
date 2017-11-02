@@ -12,4 +12,6 @@ Collect digital currency exchange api
 
 [51szzc.com](https://github.com/51szzc/szzc-api-demo)
 
+[bithumb.com](https://www.bithumb.com/u1/US127)
+
 **Add later**
