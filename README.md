@@ -14,4 +14,6 @@ Collect digital currency exchange api
 
 [bithumb.com](https://www.bithumb.com/u1/US127)
 
+[cex.com](https://coding.net/u/byoneself/p/cex_api/git/tree/master)
+
 **Add later**
