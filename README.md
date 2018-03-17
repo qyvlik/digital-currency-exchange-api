@@ -17,3 +17,7 @@ Collect digital currency exchange api
 [cex.com](https://coding.net/u/byoneself/p/cex_api/git/tree/master)
 
 **Add later**
+
+---
+
+[**donateme**](https://github.com/qyvlik/donateme)
